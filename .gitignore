@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local outputs
+*.log
+
+# Generated analysis artifacts
+*_events.csv
+*_segments.csv
+*_summary.json
+*_report.txt
+
+# Generated videos
+output*.mp4
+smoke*.mp4
+improved_output*.mp4
+
+# Large local media
+video*.mp4
+*.mov
+*.avi
+*.mkv
