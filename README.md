@@ -1,5 +1,9 @@
 # Dodo CV Table Detector
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/7mPAuCDLAc0AAAAC/kendallwantstouse-headphone-cat.gif" alt="headphone cat" width="220">
+</p>
+
 Lightweight Python tool for detecting the state of a single table in video using OpenCV.
 
 The script analyzes a selected table region (`ROI`), builds a background model, tracks activity, and exports both annotated video and structured reports.
